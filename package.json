@@ -1,0 +1,25 @@
+{
+  "name": "wolf-distraction",
+  "version": "1.0.0",
+  "description": "Distract them, secretly",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "John Higley <john@jhigley.com>",
+  "license": "ISC",
+  "dependencies": {
+    "ampersand-model": "^4.0.2",
+    "ampersand-rest-collection": "^2.0.3",
+    "ampersand-router": "^1.0.5",
+    "ampersand-view": "^7.1.4",
+    "ampersand-view-switcher": "^1.0.5",
+    "andlog": "^1.0.0",
+    "domready": "^1.0.7",
+    "hapi": "^6.9.0",
+    "hig-howl": "^1.0.0",
+    "moment": "^2.8.3",
+    "moonboots_hapi": "^2.4.0",
+    "templatizer": "^1.0.1"
+  }
+}
